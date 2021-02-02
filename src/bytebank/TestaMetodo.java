@@ -21,5 +21,6 @@ public static void main(String[] args) {
 	 }
 	 System.out.println("Conta do destatario despois de transferir 300 reais: "+contaDestinatario.saldo);
 	 System.out.println("Conta que recebeu os 300 reais: "+conta.saldo);
+	 
 }
 }
